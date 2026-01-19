@@ -1,12 +1,6 @@
 # Advance-Face-Recognition
 
-1. Project Structure Should Look Like
-Advance-Face-Recognition/
-├── people.csv
-├── images/
-│   ├── rahul.jpg
-│   ├── amit.png
-│   └── neha.jpeg
+1. Create a "images" folder at the root
 
 2. Install the required libraries
 	pip install numpy opencv-python pillow insightface onnxruntime
